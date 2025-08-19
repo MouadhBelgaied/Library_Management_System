@@ -1,6 +1,8 @@
 # Library Management System - MVP
 
-![Django](https://static.djangoproject.com/img/logos/django-logo-negative.svg)
+<p align="center">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="200"/>
+</p>
 
 MVP d’un système de gestion de librairie avec Django et SQLite. Permet login/logout, CRUD de livres et catégories, recherche et statistiques. Interface responsive en HTML, CSS, JavaScript et Bootstrap.
 
